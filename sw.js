@@ -1,5 +1,5 @@
 // کش آفلاین خرج‌یار: بار اول همه فایل‌ها ذخیره می‌شوند تا برنامه بدون اینترنت هم باز شود
-const CACHE = 'kharjyar-202611020547';
+const CACHE = 'kharjyar-202611020609';
 const CORE = ['./', 'index.html', 'manifest.json', 'flutter.js', 'flutter_bootstrap.js', 'main.dart.js',
   'sqflite_sw.js', 'sqlite3.wasm', 'canvaskit/canvaskit.js', 'canvaskit/canvaskit.wasm', 'canvaskit/chromium/canvaskit.js', 'canvaskit/chromium/canvaskit.wasm', 'assets/fonts/fallback/Roboto-Regular.ttf',
   'assets/AssetManifest.bin', 'assets/AssetManifest.bin.json', 'assets/FontManifest.json',
